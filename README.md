@@ -1,4 +1,4 @@
-# django-rest-api
+# django rest api demo - (example: bazenga)
 django rest api 
 
 ### Getting started with python django restful api
