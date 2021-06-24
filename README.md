@@ -43,3 +43,5 @@ django rest api
              'PAGE_SIZE': 10
          }
    ```
+
+Run your app: `python3 manage.py runserver`
