@@ -11,7 +11,7 @@ django rest api
     - Check installed packages `pip3 freeze`
     - Create a requirements text file `pip3 freeze > requirements.txt`
     - Setup a new project `django-admin startproject demo_api`
-    - Within the newly created `demo_api` run `django-admin startapp api` or `python3 manage.py startup api`
+    - Within the newly created `demo_api` run `django-admin startapp api` or `python3 manage.py startapp api`
       
 5. We can set up our database by running our first migration
    - `python3 manage.py makemigrations`
